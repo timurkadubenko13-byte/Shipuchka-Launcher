@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "product": "SHIPUCHKA CLIENT",
+  "channel": "stable",
+  "published": false,
+  "version": null,
+  "minecraftVersion": "1.21.4",
+  "modLoader": "Fabric",
+  "javaVersion": 21,
+  "assetName": null,
+  "downloadUrl": null,
+  "sha256": null,
+  "releaseUrl": null,
+  "releaseNotes": "Первый релиз ещё не опубликован."
+}
